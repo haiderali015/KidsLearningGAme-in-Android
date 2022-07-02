@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".secondA"
+    tools:ignore="ExtraText">
+
+    <Button
+        android:translationX="10dp"
+        android:id="@+id/a"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="A"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/b"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="B"
+        android:textSize="40sp"
+        android:translationX="110dp" />
+
+
+    <Button
+        android:id="@+id/c"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="C"
+        android:textSize="40sp"
+        android:translationX="210dp" />
+
+    <Button
+        android:id="@+id/d"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:translationX="310dp"
+        android:text="D"
+        />
+
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/e"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="E"
+        android:translationY="70dp" />
+
+
+
+    <Button
+        android:id="@+id/f"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="F"
+        android:translationY="70dp"
+        android:translationX="110dp"/>
+
+
+    <Button
+        android:id="@+id/g"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="G"
+        android:translationY="70dp"
+        android:translationX="210dp" />
+
+    <Button
+        android:id="@+id/h"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="H"
+        android:translationY="70dp"
+        android:translationX="310dp"/>
+
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/i"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="I"
+        android:translationY="140dp"/>
+    <Button
+        android:id="@+id/j"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="J"
+        android:translationY="140dp"
+        android:translationX="110dp"
+        />
+
+    <Button
+        android:id="@+id/k"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="K"
+        android:translationY="140dp"
+        android:translationX="210dp"/>
+
+    <Button
+        android:id="@+id/l"
+
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="L"
+        android:translationY="140dp"
+        android:translationX="310dp"/>
+
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/m"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="M"
+        android:translationY="210dp" />
+
+    <Button
+        android:id="@+id/n"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="N"
+        android:translationY="210dp"
+        android:translationX="110dp"/>
+
+    <Button
+        android:id="@+id/o"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="O"
+        android:translationY="210dp"
+        android:translationX="210dp" />
+
+    <Button
+        android:id="@+id/p"
+        android:translationX="310dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="P"
+        android:translationY="210dp"/>
+
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/q"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="Q"
+        android:translationY="280dp" />
+
+    <Button
+        android:id="@+id/r"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="R"
+        android:translationX="110dp"
+        android:translationY="280dp" />
+
+
+    <Button
+        android:id="@+id/s"
+        android:translationX="210dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="S"
+        android:translationY="280dp" />
+
+
+    <Button
+        android:id="@+id/t"
+        android:translationX="310dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="T"
+        android:translationY="280dp" />
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/u"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="U"
+        android:translationY="350dp"/>
+
+    <Button
+        android:id="@+id/v"
+        android:translationX="110dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="V"
+        android:translationY="350dp"/>
+    <Button
+        android:id="@+id/w"
+        android:translationX="210dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="W"
+        android:translationY="350dp"/>
+
+    <Button
+        android:id="@+id/x"
+        android:translationX="310dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="X"
+        android:translationY="350dp"/>
+
+    <Button
+        android:translationX="10dp"
+
+        android:id="@+id/y"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="Y"
+        android:translationY="420dp"/>
+    <Button
+        android:id="@+id/z"
+        android:translationX="110dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:text="Z"
+        android:translationY="420dp"/>
+</RelativeLayout>
